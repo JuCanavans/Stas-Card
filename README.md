@@ -10,7 +10,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [Stas Card](https://qr-code-component-indol-kappa.vercel.app/) to explore the live site.
+Visit the [Stas Card](https://stas-card.vercel.app/) to explore the live site.
 
 Visit the [Front-end Mentor](https://www.frontendmentor.io/) to explore the live site.
 
